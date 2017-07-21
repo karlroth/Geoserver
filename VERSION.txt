@@ -1,0 +1,9 @@
+version = 2.9-SNAPSHOT
+git revision = d1530c468ccd9a8d4dadf786dfdd4009e12fb9af
+git branch = 2.9.x
+build date = 02-Jun-2016 06:44
+geotools version = 15-SNAPSHOT
+geotools revision = c1f8e1e57d3cb1b7e46ccf0a9272534cdc518470
+geowebcache version = 1.9-SNAPSHOT
+geowebcache revision = 92c0492b0c4991ee587a4172a35f46a3bb351b09/92c04
+hudson build = -1
